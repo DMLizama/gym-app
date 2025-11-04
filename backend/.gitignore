@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Base de datos de SQLite
+*.db
+*.sqlite3
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpetas de configuración del editor
+.vscode/
+.idea/
+
+# Archivos de variables de entorno
+.env
+
+# Archivos de caché de pytest (para cuando hagamos tests)
+.pytest_cache/
